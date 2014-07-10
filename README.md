@@ -1,4 +1,4 @@
-Welcome to _Dogecoin Wallet_, a standalone Dogecoin payment app for your Android device!
+Welcome to _librexcoin Wallet_, a standalone librexcoin payment app for your Android device!
 
 This project contains several sub-projects:
 
